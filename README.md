@@ -32,9 +32,6 @@ por medio de ideas informáticas es para mí un gran placer.
 
 ⚡Mi objetivo primordial en la vida es dejar huella en las personas por medio de todo lo que haga, especialmente en esta profesión, para así inspirar e impactar para seguir generando un buen cambio en la sociedad.
 
----
-
-
 <!--[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)-->
 
 
