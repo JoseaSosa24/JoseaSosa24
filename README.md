@@ -40,7 +40,10 @@ por medio de ideas informáticas es para mí un gran placer.
 
 <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=JoseaSosa24&show_icons=true&theme=merko" alt="JoseaSosa24 :: Profile Stats" />
+      <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=JoseaSosa24&theme=black-ice"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseaSosa24&langs_count=10&theme=tokyonight&layout=compact" alt="JoseaSosa24 :: Top Langs" />
+      
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JoseaSosa24&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 <!--<p align="center"></p>-->
 
