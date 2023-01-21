@@ -22,14 +22,13 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-armando-sosa-cardona/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=JoseaSosa24.visitor-badge)
 
-🔭 Soy estudiante estudiante de Desarrollo de Software. Estoy en constante formación para mantenerme al tanto de los diversos cambios en las tecnologías y sus implementaciones. Actualmente me encuentro en etapa práctica de Desarrollo de Software.
+🔭 Soy estudiante de Desarrollo de Software. Estoy en constante formación para mantenerme al tanto de los diversos cambios en las tecnologías y sus implementaciones. Actualmente me encuentro en etapa práctica de Desarrollo de Software.
 
-💬La informática y los sistemas siempre han sido mi pasión desde muy pequeño de tal modo que la progrmación ha hecho que esa pasíon siga creciendo, ya que dar soluciones 
-por medio de ideas informáticas es para mí un gran placer. 
+💬 La informática y los sistemas siempre han sido mi pasión desde muy joven, de tal manera que la programación ha hecho que esa pasión siga creciendo, ya que dar soluciones por medio de ideas informáticas es para mí un gran placer.
 
-😄Desde hace tiempo tengo conocimienientos previos sobre la programación no obstante espero adquirir la experiencia necesaria que así lo demuestre en la Industria Tech.
+😄 Desde hace tiempo tengo conocimientos previos sobre la programación, no obstante, espero adquirir la experiencia necesaria que así lo demuestre en la Industria Tech.
 
-⚡Mi objetivo primordial en la vida es dejar huella en las personas por medio de todo lo que haga, especialmente en esta profesión, para así inspirar e impactar para seguir generando un buen cambio en la sociedad.
+⚡ Mi objetivo primordial en la vida es dejar huella en las personas por medio de todo lo que haga, especialmente en esta profesión, para así inspirar e impactar y seguir generando un buen cambio en la sociedad.
 
 <!--[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)-->
 
