@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=JoseaSosa24&show_icons=true&hide_border=true&title_color=47b5ff&icon_color=256D85&text_color=c9d1d9&bg_color=0d1117" alt="JoseaSosa24 :: Profile Stats" />
-      <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=JoseaSosa24&theme=black-ice&hide_border=true&stroke=222125&background=0D1117&ring=47b5ff&fire=256d85&currStreakLabel=47b5ff"/>
+      <img height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=JoseaSosa24&theme=black-ice&hide_border=true&stroke=222125&background=0D1117&ring=47b5ff&fire=256d85&currStreakLabel=47b5ff"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseaSosa24&langs_count=10&theme=tokyonight&layout=compact" alt="JoseaSosa24 :: Top Langs" />
       
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JoseaSosa24&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
