@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ## Mis estadísticas en GitHub:
 
 <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=JoseaSosa24&show_icons=true&theme=merko" alt="JoseaSosa24 :: Profile Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=JoseaSosa24&show_icons=true&hide_border=true&title_color=256D85&icon_color=795e5e&text_color=c9d1d9&bg_color=0d1117" alt="JoseaSosa24 :: Profile Stats" />
       <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=JoseaSosa24&theme=black-ice"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseaSosa24&langs_count=10&theme=tokyonight&layout=compact" alt="JoseaSosa24 :: Top Langs" />
       
