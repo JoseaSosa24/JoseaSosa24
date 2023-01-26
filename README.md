@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+<!--<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/JoseaSosa24/count.svg" />
+</p>-->
 
 ---
 
