@@ -36,27 +36,12 @@ Here are some ideas to get you started:
 
 <!--[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)-->
 
-
----
-
-## Mis estadísticas en GitHub:
-
-<p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=JoseaSosa24&show_icons=true&hide_border=true&title_color=47b5ff&icon_color=256D85&text_color=c9d1d9&bg_color=0d1117" alt="JoseaSosa24 :: Profile Stats" />
-      <img height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=JoseaSosa24&theme=black-ice&hide_border=true&stroke=06283d&background=0D1117&ring=47b5ff&fire=256d85&currStreakLabel=47b5ff"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseaSosa24&layout=compact&title_color=47b5ff&bg_color=0d1117&hide_border=true&text_color=ffffff"" alt="JoseaSosa24 :: Top Langs" />
-      
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JoseaSosa24&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</p>
-<!--<p align="center"></p>-->
-
 ---
 ### :computer: Tecnologías y Herramientas: 
 
 <table><tr><td valign="top" width="33%">
 
-
-
+  
 ### Frontend  
 <div align="center">  
       <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -91,6 +76,19 @@ Here are some ideas to get you started:
       <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 </p>
 
+
+---
+
+## Mis estadísticas en GitHub:
+
+<p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=JoseaSosa24&show_icons=true&hide_border=true&title_color=47b5ff&icon_color=256D85&text_color=c9d1d9&bg_color=0d1117" alt="JoseaSosa24 :: Profile Stats" />
+      <img height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=JoseaSosa24&theme=black-ice&hide_border=true&stroke=06283d&background=0D1117&ring=47b5ff&fire=256d85&currStreakLabel=47b5ff"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseaSosa24&layout=compact&title_color=47b5ff&bg_color=0d1117&hide_border=true&text_color=ffffff"" alt="JoseaSosa24 :: Top Langs" />
+      
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JoseaSosa24&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</p>
+<!--<p align="center"></p>-->
 
 ## Mis redes:  
 <div align="center">
