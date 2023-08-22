@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 
 ## Mis redes:  
 <div align="center">
-<a href="https://www.linkedin.com/in/jose-armando-sosa-cardona/" target="_blank">
+<a href="https://www.linkedin.com/in/joseasosa24/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://es.stackoverflow.com/users/311382/jose-sosa" target="_blank">
