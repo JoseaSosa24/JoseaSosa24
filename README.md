@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-armando-sosa-cardona/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=JoseaSosa24.visitor-badge)
 
-🔭 Soy estudiante de Desarrollo de Software. Estoy en constante formación para mantenerme al tanto de los diversos cambios en las tecnologías y sus implementaciones. Actualmente me encuentro en etapa práctica de Desarrollo de Software.
+🔭 Soy desarrollador de software con 1 año de experiencia en desarrollo de software replicando componentes web con la librería web React y gestionando promociones comerciales de Esprit, Chevignon y Americanino en la plataforma e-commerce VTEX.
+
+🎓 Durante mi etapa formativa, me especialicé en desarrollo backend, utilizando tecnologías como Java, Node.js, MySQL con enfoque en programación orientada a objetos (POO) con Java e implementación de patrones de diseño como MVC.
 
 💬 La informática y los sistemas siempre han sido mi pasión desde muy joven, de tal manera que la programación ha hecho que esa pasión siga creciendo, ya que dar soluciones por medio de ideas informáticas es para mí un gran placer.
 
