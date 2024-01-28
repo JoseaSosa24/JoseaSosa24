@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <!--[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)-->
 
 ---
-### :computer: Languajes y Herrameintas:
+### :computer: Languajes y Herramientas:
 <p align="left"> 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /> 
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
@@ -68,10 +68,28 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" />
 </p>
 
+---
+
+### Mis redes:
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/joseasosa24/" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.instagram.com/joseasosa24/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://es.stackoverflow.com/users/311382/jose-sosa" target="_blank">
+  <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://github.com/joseasosa24" target="_blank">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>  
+</div>  
 
 ---
 
-## Mis estadísticas en GitHub:
+### Mis estadísticas en GitHub:
 
 <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=JoseaSosa24&show_icons=true&hide_border=true&title_color=47b5ff&icon_color=256D85&text_color=c9d1d9&bg_color=0d1117" alt="JoseaSosa24 :: Profile Stats" />
@@ -81,19 +99,6 @@ Here are some ideas to get you started:
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JoseaSosa24&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 <!--<p align="center"></p>-->
-
-## Mis redes:  
-<div align="center">
-<a href="https://www.linkedin.com/in/joseasosa24/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://es.stackoverflow.com/users/311382/jose-sosa" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/joseasosa24" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
 
 
 
