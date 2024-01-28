@@ -124,7 +124,7 @@ para así inspirar e impactar y seguir generando un buen cambio en la sociedad.<
     Este proyecto simula las acciones de un cajero electrónico, incluyendo transferencia, consulta de saldo, consignación y retiro. 
   </p>
   <p>
-   Además, cuenta con interzaz delogue y principal con validaciones para garantizar los datos correctos en las operaciones.
+   Además, cuenta con interfaz de logueo y principal, con validaciones para garantizar los datos ingresados sean correctos.
   </p>
   </div>
     
