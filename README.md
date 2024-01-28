@@ -89,7 +89,7 @@ para así inspirar e impactar y seguir generando un buen cambio en la sociedad.<
   <td width="50%">
   <h3 align="center">InmoWeb</h3>
   <div align="center">
-  <a href="https://github.com/JoseaSosa24/web-inmobiliaria" target="_blank"><img src="https://media.licdn.com/dms/image/D4E2DAQHo7iJO3GTDJA/profile-treasury-image-shrink_800_800/0/1704946533386?e=1707012000&v=beta&t=Oo3TilCt9PdeDHJgR0GwzPETG4wBMbG0XEqkEAAhEPI" width="400" alt="InmoWeb"></a>
+  <a href="https://joseasosa24.github.io/web-inmobiliaria/" target="_blank"><img src="https://media.licdn.com/dms/image/D4E2DAQHo7iJO3GTDJA/profile-treasury-image-shrink_800_800/0/1704946533386?e=1707012000&v=beta&t=Oo3TilCt9PdeDHJgR0GwzPETG4wBMbG0XEqkEAAhEPI" width="400" alt="InmoWeb"></a>
  <p>
 <a href="https://github.com/JoseaSosa24/web-inmobiliaria" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
