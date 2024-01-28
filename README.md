@@ -111,7 +111,7 @@ para así inspirar e impactar y seguir generando un buen cambio en la sociedad.<
   <td width="50%">
   <h3 align="center">E-bank</h3>
   <div align="center">
-  <a href="https://laduquesadev.github.io/Ninja-Social-Network/src/index.html" target="_blank"><img src="https://media.licdn.com/dms/image/D4E2DAQEJvBXuhTrDTA/profile-treasury-image-shrink_800_800/0/1706411650555?e=1707019200&v=beta&t=Az1ha6rtEgVKs9qc7T6-1mCRYtB9za092t9AwpTHBX8" width="400" alt="E-Bank"></a>
+  <a href="https://e-bank1.netlify.app/" target="_blank"><img src="https://media.licdn.com/dms/image/D4E2DAQEJvBXuhTrDTA/profile-treasury-image-shrink_800_800/0/1706411650555?e=1707019200&v=beta&t=Az1ha6rtEgVKs9qc7T6-1mCRYtB9za092t9AwpTHBX8" width="400" alt="E-Bank"></a>
   <p>
     <a href="https://github.com/JoseaSosa24/e-bank" target="_blank">
       <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -135,7 +135,7 @@ para así inspirar e impactar y seguir generando un buen cambio en la sociedad.<
   <td width="50%">
   <h3 align="center">Formulario Fidelización</h3>
   <div align="center">
-  <a href="https://laduquesadev.github.io/Cifrado-Cesar/src/index.html" target="_blank"><img src="https://i.postimg.cc/zDMvrg9h/Formulario-fidelizacion.png" width="400" alt="Formulario"></a>
+  <a href="https://github.com/JoseaSosa24/formulario-fidelizacion" target="_blank"><img src="https://i.postimg.cc/zDMvrg9h/Formulario-fidelizacion.png" width="400" alt="Formulario"></a>
   <p>
     <a href="https://github.com/JoseaSosa24/formulario-fidelizacion" target="_blank">
       <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
