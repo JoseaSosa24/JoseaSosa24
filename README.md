@@ -19,25 +19,32 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/JoseaSosa24/count.svg" />
 </p>-->
 
+
 ---
-
-<h3>Sobre mí 🌱: </h3>
-
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joseasosa24/)
 ![GitHub User's stars](https://img.shields.io/github/stars/joseasosa24)
 [![LinkedIn Followers](https://img.shields.io/badge/In-5,000-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/joseasosa24/)
 ![Vistas de perfil](https://komarev.com/ghpvc/?username=joseasosa24)
 
-🔭 Soy desarrollador de software con 1 año de experiencia en desarrollo de software replicando componentes web con la librería web React y gestionando promociones comerciales de Esprit, Chevignon y Americanino en la plataforma e-commerce VTEX.
+### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí:**
 
-🎓 Durante mi etapa formativa, me especialicé en desarrollo backend, utilizando tecnologías como Java, Node.js, MySQL con enfoque en programación orientada a objetos (POO) con Java e implementación de patrones de diseño como MVC.
 
-💬 La informática y los sistemas siempre han sido mi pasión desde muy joven, de tal manera que la programación ha hecho que esa pasión siga creciendo, ya que dar soluciones por medio de ideas informáticas es para mí un gran placer.
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
+<p width="45%" align="left">
+¡Hello World!:
+  <ul>
+    <li>👨‍🔧 Soy <b>Desarrollador de software</b></li>
+    <!--<li>🏢 I'm working for <b>Infomaniak Network</b> & <b>LinIT</b></li>-->
+    <li>🌱 1 año de experiencia en desarrollo de software replicando componentes web con la librería web React</b></li>
+    <li>💬 He trabajado en proyectos de back con Java, Node.js, MySQL con enfoque en programación orientada a objetos (POO) con Java e implementación de patrones de diseño como MVC.</li>
+    <li>📮 Contacta conmigo en linkedin : <a href="https://www.linkedin.com/in/joseasosa24/" target="_blank">José Sosa</a>
+  <p>
+  </ul>
+Apasionado por la informática y la programación.
+<br> Mi objetivo primordial en la vida es dejar huella en las personas por medio de todo lo que haga, especialmente en esta profesión, 
+para así inspirar e impactar y seguir generando un buen cambio en la sociedad.<br>
 
-😄 Desde hace tiempo tengo conocimientos previos sobre la programación, no obstante, espero adquirir la experiencia necesaria que así lo demuestre en la Industria Tech.
-
-⚡ Mi objetivo primordial en la vida es dejar huella en las personas por medio de todo lo que haga, especialmente en esta profesión, para así inspirar e impactar y seguir generando un buen cambio en la sociedad.
-
+</p>
 <!--[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)-->
 
 ---
@@ -55,9 +62,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /> 
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
   <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express" />
+  <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express" />
   <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" alt="axios" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" />
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="sequelize" />
 </p>
 <p align="left"> 
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="editor" />
@@ -67,7 +75,93 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="jira" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="trello" />
 </p>
+
+---
+
+### Proyectos:
+
+<div>
+  <table>
+  <tr>
+  <td width="50%">
+  <h3 align="center">InmoWeb</h3>
+  <div align="center">
+  <a href="https://github.com/JoseaSosa24/web-inmobiliaria" target="_blank"><img src="https://media.licdn.com/dms/image/D4E2DAQHo7iJO3GTDJA/profile-treasury-image-shrink_800_800/0/1704946533386?e=1707012000&v=beta&t=Oo3TilCt9PdeDHJgR0GwzPETG4wBMbG0XEqkEAAhEPI" width="400" alt="InmoWeb"></a>
+ <p>
+<a href="https://github.com/JoseaSosa24/web-inmobiliaria" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://joseasosa24.github.io/web-inmobiliaria/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=bf7839">
+</a>
+</p>
+  <p>
+    Una inmobiliaria ficticia llamada InmoWeb presenta su empresa y servicios en una landing page responsive. 
+  </p>
+    <p>
+      La información se presenta de forma clara y concisa, con imágenes y colores 
+    agradables a la vista. La llamada a la acción invita a los usuarios a ponerse en contacto con la empresa.
+    </p>
+  </div>      
+  </td>
+  
+  <td width="50%">
+  <h3 align="center">E-bank</h3>
+  <div align="center">
+  <a href="https://laduquesadev.github.io/Ninja-Social-Network/src/index.html" target="_blank"><img src="https://media.licdn.com/dms/image/D4E2DAQEJvBXuhTrDTA/profile-treasury-image-shrink_800_800/0/1706411650555?e=1707019200&v=beta&t=Az1ha6rtEgVKs9qc7T6-1mCRYtB9za092t9AwpTHBX8" width="400" alt="E-Bank"></a>
+  <p>
+    <a href="https://github.com/JoseaSosa24/e-bank" target="_blank">
+      <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+    </a>
+    <a href="https://e-bank1.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=4280ce">
+    </a>
+  </p>
+  <p>
+    Este proyecto simula las acciones de un cajero electrónico, incluyendo transferencia, consulta de saldo, consignación y retiro. 
+  </p>
+  <p>
+   Además, cuenta con interzaz delogue y principal con validaciones para garantizar los datos correctos en las operaciones.
+  </p>
+  </div>
+    
+  </table>                                                                                 
+  
+  <table>
+  <tr>  
+  <td width="50%">
+  <h3 align="center">Formulario Fidelización</h3>
+  <div align="center">
+  <a href="https://laduquesadev.github.io/Cifrado-Cesar/src/index.html" target="_blank"><img src="https://i.postimg.cc/zDMvrg9h/Formulario-fidelizacion.png" width="400" alt="Formulario"></a>
+  <p>
+    <a href="https://github.com/JoseaSosa24/formulario-fidelizacion" target="_blank">
+      <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+    </a>
+   <!-- <a href="https://e-bank1.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=4280ce">
+    </a>-->
+  </p>
+  <p>Este proyecto proporciona una API que consta de un formulario de fidelización que cuenta con validaciones con Formik.</p>
+  <p>El formulario permite a los usuarios ingresar sus datos personales, como su nombre, dirección, correo electrónico y número de teléfono... Los datos ingresados se almacenan en una 
+    base de datos MySQL.</p>
+  </div>                                                                          
+  </td>
+  
+  <td width="50%">
+  <h3 align="center">Yu-Note</h3>
+  <div align="center">                                       
+  <a href="https://yunote-88484.web.app/" target="_blank"><img src="https://i.imgur.com/GJmJg9w.png" width="400" alt="Yu-Note"></a>
+  <br>
+  <p><a href="https://github.com/LaDuquesaDev/yu-note" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a></p>
+  </p>It is an app that allows you to take notes, edit them and delete them, it is developed with React and Bootstrap, don't forget anything</p>
+  </div>   
+  </td>
+  
+  </table>                                                                                 
+</div>
 
 ---
 
@@ -101,30 +195,3 @@ Here are some ideas to get you started:
 </p>
 <!--<p align="center"></p>-->
 
-
-
-<!--Front:
-
-<p>
-      <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?       style=flat&logo=css3&logoColor=white">
-      <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-      <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-      <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-</p>
-
-
-Back: 
-
-<p>
-      <img src="https://img.shields.io/badge/-Java-yellow">
-      <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">   
-</p>
-
-Herramientas: 
-
-<p>
-      <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-      <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-      <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-</p>
--->
