@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 
 <h3>Sobre mí 🌱: </h3>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-armando-sosa-cardona/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joseasosa24/)
 ![GitHub User's stars](https://img.shields.io/github/stars/joseasosa24)
+[![LinkedIn Followers](https://img.shields.io/badge/In-5,000-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/joseasosa24/)
 ![Vistas de perfil](https://komarev.com/ghpvc/?username=joseasosa24)
 
 🔭 Soy desarrollador de software con 1 año de experiencia en desarrollo de software replicando componentes web con la librería web React y gestionando promociones comerciales de Esprit, Chevignon y Americanino en la plataforma e-commerce VTEX.
