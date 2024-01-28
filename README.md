@@ -81,7 +81,7 @@ para así inspirar e impactar y seguir generando un buen cambio en la sociedad.<
 
 ---
 
-### Proyectos:
+### Algunos Proyectos:
 
 <div>
   <table>
@@ -150,7 +150,7 @@ para así inspirar e impactar y seguir generando un buen cambio en la sociedad.<
   </div>                                                                          
   </td>
   
-  <td width="50%">
+  <!--<td width="50%">
   <h3 align="center">Yu-Note</h3>
   <div align="center">                                       
   <a href="https://yunote-88484.web.app/" target="_blank"><img src="https://i.imgur.com/GJmJg9w.png" width="400" alt="Yu-Note"></a>
@@ -158,7 +158,7 @@ para así inspirar e impactar y seguir generando un buen cambio en la sociedad.<
   <p><a href="https://github.com/LaDuquesaDev/yu-note" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a></p>
   </p>It is an app that allows you to take notes, edit them and delete them, it is developed with React and Bootstrap, don't forget anything</p>
   </div>   
-  </td>
+  </td>-->
   
   </table>                                                                                 
 </div>
