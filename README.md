@@ -90,7 +90,8 @@ para así inspirar e impactar y seguir generando un buen cambio en la sociedad.<
   <td width="50%">
   <h3 align="center">InmoWeb</h3>
   <div align="center">
-  <a href="https://joseasosa24.github.io/web-inmobiliaria/" target="_blank"><img src="https://media.licdn.com/dms/image/D4E2DAQHo7iJO3GTDJA/profile-treasury-image-shrink_800_800/0/1704946533386?e=1708995600&v=beta&t=YK9PBJ9S4MiOTgLpNXmcVcAdGBtdIqjdJbHfNByXn_Q" width="400" alt="InmoWeb"></a>
+  <a href="https://joseasosa24.github.io/web-inmobiliaria/" target="_blank">
+    <img src="https://github.com/JoseaSosa24/JoseaSosa24/blob/main/Imagenes/vitaprevia-inmoweb.jpg" width="400" alt="InmoWeb"></a>
  <p>
 <a href="https://github.com/JoseaSosa24/web-inmobiliaria" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -112,7 +113,9 @@ para así inspirar e impactar y seguir generando un buen cambio en la sociedad.<
   <td width="50%">
   <h3 align="center">E-bank</h3>
   <div align="center">
-  <a href="https://e-bank1.netlify.app/" target="_blank"><img src="https://media.licdn.com/dms/image/D4E2DAQEJvBXuhTrDTA/profile-treasury-image-shrink_800_800/0/1706411650555?e=1708995600&v=beta&t=z5xUk7kLz2nVVyZXMxY9zbtFaxoCtgJc2s1jQu_NtB8" width="400" alt="E-Bank"></a>
+  <a href="https://e-bank1.netlify.app/" target="_blank"><img src="https://github.com/JoseaSosa24/JoseaSosa24/blob/main/Imagenes/vistaprevia-ebank.jpg" 
+  width="300" alt="E-Bank">
+  </a>
   <p>
     <a href="https://github.com/JoseaSosa24/e-bank" target="_blank">
       <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
