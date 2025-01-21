@@ -90,7 +90,7 @@ para así inspirar e impactar y seguir generando un buen cambio en la sociedad.<
         <h3 align="center">Mi AMPA</h3>
         <div align="center">
           <a href="https://miampa.com/" target="_blank">
-            <img src="https://via.placeholder.com/400x200" width="100%" alt="Mi AMPA"></a>
+            <img src="https://github.com/JoseaSosa24/JoseaSosa24/blob/main/Imagenes/vitaprevia-miampa.png" width="100%" alt="Mi AMPA"></a>
           <p>
             <a href="https://miampa.com/" target="_blank">
               <img src="https://img.shields.io/badge/-Website-green?style=for-the-badge&color=4280ce">
@@ -105,7 +105,7 @@ para así inspirar e impactar y seguir generando un buen cambio en la sociedad.<
         <h3 align="center">RootFee</h3>
         <div align="center">
           <a href="https://rootfee.com/" target="_blank">
-            <img src="https://via.placeholder.com/400x200" width="100%" alt="RootFee"></a>
+            <img src="https://github.com/JoseaSosa24/JoseaSosa24/blob/main/Imagenes/vitaprevia-rootfee.png" width="100%" alt="RootFee"></a>
           <p>
             <a href="https://rootfee.com/" target="_blank">
               <img src="https://img.shields.io/badge/-Website-green?style=for-the-badge&color=4280ce">
