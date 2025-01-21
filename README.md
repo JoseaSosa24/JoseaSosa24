@@ -29,13 +29,12 @@ Here are some ideas to get you started:
 ### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí:**
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
 <p width="45%" align="left">
-¡Hello World!:
+¡Hola, mundo! Soy <b>José Sosa</b>, un apasionado desarrollador de software con experiencia en el desarrollo front-end
   <ul>
-    <li>👨‍🔧 Soy <b>Desarrollador de software</b></li>
+    <li>👨‍💻 Actualmente soy <b>Desarrollador Frontend</b>, trabajando con <b>React</b> y <b>Next.js</b>.</li>
     <!--<li>🏢 I'm working for <b>Infomaniak Network</b> & <b>LinIT</b></li>-->
-    <li>🌱 1 año de experiencia en desarrollo de software replicando componentes web con la librería web React</b></li>
+    <li>🌱 2 años de experiencia en desarrollo de software replicando componentes web con la librería web React</b></li>
     <li>💬 He trabajado en proyectos de back con Java, Node.js, MySQL con enfoque en programación orientada a objetos (POO) con Java e implementación de patrones de diseño como MVC.</li>
     <li>📮 Contacta conmigo en linkedin : <a href="https://www.linkedin.com/in/joseasosa24/" target="_blank">José Sosa</a>
   <p>
