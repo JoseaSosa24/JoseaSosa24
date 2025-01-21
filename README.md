@@ -81,90 +81,99 @@ para así inspirar e impactar y seguir generando un buen cambio en la sociedad.<
 
 ---
 
-### Algunos Proyectos:
+### Proyectos:
 
-<div>
+<div align="center">
   <table>
-  <tr>
-  <td width="50%">
-  <h3 align="center">InmoWeb</h3>
-  <div align="center">
-  <a href="https://joseasosa24.github.io/web-inmobiliaria/" target="_blank">
-    <img src="https://github.com/JoseaSosa24/JoseaSosa24/blob/main/Imagenes/vitaprevia-inmoweb.jpg" width="400" alt="InmoWeb"></a>
- <p>
-<a href="https://github.com/JoseaSosa24/web-inmobiliaria" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://joseasosa24.github.io/web-inmobiliaria/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=bf7839">
-</a>
-</p>
-  <p>
-    Una inmobiliaria ficticia llamada InmoWeb presenta su empresa y servicios en una landing page responsive. 
-  </p>
-    <p>
-      La información se presenta de forma clara y concisa, con imágenes y colores 
-    agradables a la vista. La llamada a la acción invita a los usuarios a ponerse en contacto con la empresa.
-    </p>
-  </div>      
-  </td>
-  
-  <td width="50%">
-  <h3 align="center">E-bank</h3>
-  <div align="center">
-  <a href="https://e-bank1.netlify.app/" target="_blank"><img src="https://github.com/JoseaSosa24/JoseaSosa24/blob/main/Imagenes/vistaprevia-ebank.jpg" 
-  width="300" alt="E-Bank">
-  </a>
-  <p>
-    <a href="https://github.com/JoseaSosa24/e-bank" target="_blank">
-      <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-    </a>
-    <a href="https://e-bank1.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=4280ce">
-    </a>
-  </p>
-  <p>
-    Este proyecto simula las acciones de un cajero electrónico, incluyendo transferencia, consulta de saldo, consignación y retiro. 
-  </p>
-  <p>
-   Además, cuenta con interfaz de logueo y principal, con validaciones para garantizar los datos ingresados sean correctos.
-  </p>
-  </div>
-    
-  </table>                                                                                 
-  
-  <table>
-  <tr>  
-  <td width="50%">
-  <h3 align="center">Formulario Fidelización</h3>
-  <div align="center">
-  <a href="https://github.com/JoseaSosa24/formulario-fidelizacion" target="_blank"><img src="https://i.postimg.cc/zDMvrg9h/Formulario-fidelizacion.png" width="400" alt="Formulario"></a>
-  <p>
-    <a href="https://github.com/JoseaSosa24/formulario-fidelizacion" target="_blank">
-      <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-    </a>
-   <!-- <a href="https://e-bank1.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=4280ce">
-    </a>-->
-  </p>
-  <p>Este proyecto proporciona una API que consta de un formulario de fidelización que cuenta con validaciones con Formik.</p>
-  <p>El formulario permite a los usuarios ingresar sus datos personales, como su nombre, dirección, correo electrónico y número de teléfono... Los datos ingresados se almacenan en una 
-    base de datos MySQL.</p>
-  </div>                                                                          
-  </td>
-  
-  <!--<td width="50%">
-  <h3 align="center">Yu-Note</h3>
-  <div align="center">                                       
-  <a href="https://yunote-88484.web.app/" target="_blank"><img src="https://i.imgur.com/GJmJg9w.png" width="400" alt="Yu-Note"></a>
-  <br>
-  <p><a href="https://github.com/LaDuquesaDev/yu-note" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a></p>
-  </p>It is an app that allows you to take notes, edit them and delete them, it is developed with React and Bootstrap, don't forget anything</p>
-  </div>   
-  </td>-->
-  
-  </table>                                                                                 
+    <tr>
+      <td width="100%">
+        <h3 align="center">Mi AMPA</h3>
+        <div align="center">
+          <a href="https://miampa.com/" target="_blank">
+            <img src="https://via.placeholder.com/400x200" width="100%" alt="Mi AMPA"></a>
+          <p>
+            <a href="https://miampa.com/" target="_blank">
+              <img src="https://img.shields.io/badge/-Website-green?style=for-the-badge&color=4280ce">
+            </a>
+          </p>
+          <p>Plataforma de gestión para Asociaciones de Madres y Padres de Alumnos que facilita la comunicación, inscripción y gestión de eventos.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <h3 align="center">RootFee</h3>
+        <div align="center">
+          <a href="https://rootfee.com/" target="_blank">
+            <img src="https://via.placeholder.com/400x200" width="100%" alt="RootFee"></a>
+          <p>
+            <a href="https://rootfee.com/" target="_blank">
+              <img src="https://img.shields.io/badge/-Website-green?style=for-the-badge&color=4280ce">
+            </a>
+          </p>
+          <p>Plataforma de envío de dinero</p>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
+
+---
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">InmoWeb</h3>
+        <div align="center">
+          <a href="https://joseasosa24.github.io/web-inmobiliaria/" target="_blank">
+            <img src="https://github.com/JoseaSosa24/JoseaSosa24/blob/main/Imagenes/vitaprevia-inmoweb.jpg" width="100%" alt="InmoWeb"></a>
+          <p>
+            <a href="https://github.com/JoseaSosa24/web-inmobiliaria" target="_blank">
+              <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+            </a>
+            <a href="https://joseasosa24.github.io/web-inmobiliaria/" target="_blank">
+              <img src="https://img.shields.io/badge/-Website-green?style=for-the-badge&color=bf7839">
+            </a>
+          </p>
+          <p>Landing page responsiva para una inmobiliaria ficticia que presenta servicios y contacto con diseño atractivo y funcional.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">E-bank</h3>
+        <div align="center">
+          <a href="https://e-bank1.netlify.app/" target="_blank">
+            <img src="https://github.com/JoseaSosa24/JoseaSosa24/blob/main/Imagenes/vistaprevia-ebank.jpg" width="100%" alt="E-bank"></a>
+          <p>
+            <a href="https://github.com/JoseaSosa24/e-bank" target="_blank">
+              <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+            </a>
+            <a href="https://e-bank1.netlify.app/" target="_blank">
+              <img src="https://img.shields.io/badge/-Website-green?style=for-the-badge&color=4280ce">
+            </a>
+          </p>
+          <p>Aplicación web que simula operaciones bancarias como transferencia, consulta de saldo y retiro, con validaciones.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Formulario Fidelización</h3>
+        <div align="center">
+          <a href="https://github.com/JoseaSosa24/formulario-fidelizacion" target="_blank">
+            <img src="https://i.postimg.cc/zDMvrg9h/Formulario-fidelizacion.png" width="100%" alt="Formulario Fidelización"></a>
+          <p>
+            <a href="https://github.com/JoseaSosa24/formulario-fidelizacion" target="_blank">
+              <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+            </a>
+          </p>
+          <p>Formulario responsivo con validaciones Formik y almacenamiento de datos en MySQL.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
