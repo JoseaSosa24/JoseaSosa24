@@ -33,7 +33,7 @@
 
 ## 🚀 Sobre mí
 
-**Desarrollador de Software** con enfoque **Frontend** especializado en crear experiencias digitales que conecten personas y generen valor real. Con experiencia sólida en **React** y **Next.js**, transformo ideas en productos digitales funcionales y atractivos.
+**Desarrollador de Software** con enfoque **Frontend** especializado en crear experiencias digitales que conecten personas y generen valor real. Con experiencia en **React** y **Next.js**, transformo ideas en productos digitales funcionales y atractivos.
 
 ```javascript
 const jose = {
