@@ -78,7 +78,7 @@ const jose = {
 **🎯 Especialidades y logros:**
 - ⚡ **Desarrollo frontend** con **React.js**, **Next.js** y **Angular**
 - 🎨 **Interfaces modernas y responsivas** con **Tailwind CSS**, **SASS** y **TypeScript**
-- 📱 **Implementación pixel-perfect** desde diseños de **Figma** y **Adobe XD**
+- 📱 **Implementación desde diseños de **Figma**
 - 🔌 **Integración de APIs** y servicios externos para aplicaciones dinámicas
 - 🚀 **Optimización avanzada** de rendimiento, SEO y accesibilidad web
 - 👥 **Colaboración ágil** en equipos Scrum multidisciplinarios y multiculturales
@@ -96,7 +96,7 @@ const jose = {
       <td align="center" width="25%">
         <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60" alt="HTML"/>
         <br><strong>UI/UX Implementation</strong>
-        <br><em>Pixel-perfect designs</em>
+        <br><em>desde diseños de **Figma**</em>
       </td>
       <td align="center" width="25%">
         <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60" alt="API"/>
